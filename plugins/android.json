@@ -7,44 +7,38 @@
         "files": {}
     },
     "installed_plugins": {
-        "cordova-custom-config": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
-        },
-        "cordova-plugin-contacts": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
-        },
-        "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
-        },
-        "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
-        },
-        "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
-        },
-        "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
-        },
-        "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
-        },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
-        },
-        "cordova-plugin-x-socialsharing": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.mobilitredi.mobilitredi"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.mobilitredi.mobilitredi"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.mobilitredi.mobilitredi"
+        },
+        "cordova-custom-config": {
+            "PACKAGE_NAME": "com.mobilitredi.mobilitredi"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.mobilitredi.mobilitredi"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.mobilitredi.mobilitredi"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.mobilitredi.mobilitredi"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.mobilitredi.mobilitredi"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.mobilitredi.mobilitredi"
         }
     },
     "dependent_plugins": {
-        "cordova-plugin-compat": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
-        },
         "es6-promise-plugin": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.mobilitredi.mobilitredi"
         }
     }
 }
